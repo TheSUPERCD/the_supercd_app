@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.thesupercdapp">
    <application
-        android:label="thesupercdapp"
+        android:label="TheSUPERCD"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
